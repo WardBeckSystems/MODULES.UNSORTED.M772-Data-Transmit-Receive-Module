@@ -33,7 +33,7 @@ M772 data transmit/receive module schematic Title block at bottom left reading s
 - **Dots (junctions):** 4
 - **Wiring (first pass):** 184 connected wire groups from 3,336 runs, 1 dotted junctions
 
-Every curve, box, word and wire group: [19xx - 772-02-001 - DATA TRANSMIT RECEIVE MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20772-02-001%20-%20DATA%20TRANSMIT%20RECEIVE%20MODULE%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 772-02-001 - DATA TRANSMIT RECEIVE MODULE SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 772-02-001 - DATA TRANSMIT RECEIVE MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20772-02-001%20-%20DATA%20TRANSMIT%20RECEIVE%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 772-02-001 - DATA TRANSMIT RECEIVE MODULE SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 
